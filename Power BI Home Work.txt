@@ -1,0 +1,244 @@
+**********************************************************************************************************************************
+Practice 1:
+**********************************************************************************************************************************
+Click portal.azure.com, click all services and identify the services in the left hand side pane
+
+
+**********************************************************************************************************************************
+Practice 2:
+**********************************************************************************************************************************
+
+Power BI Account Details:
+====================
+Account 1:
+
+user name: vinaytech_2703@vinaytechhouse.com
+password: vinaytech@2023
+
+Account 2:
+
+user name: vinaytech_1603@vinaytechhouse.com
+password: vinaytech@2023
+
+===================================
+Workspace: Working area [It supports PBIX, RDL, and XLSX files]
+Appspace: Sharing area [Customers se this to browse reports and share annotations, Team members to colloborate work]
+==================================
+
+**********************************************************************************************************************************
+Practice 3: You have to do the below at the cloud service in the browser:
+**********************************************************************************************************************************
+a) Open Browser (Google chrome or Internet Explorer)
+b) Type cloud service URL:  app.power bi.com, connect with the above credentials
+c) Create workspace [left hand side navigation, click create workspace]
+d) Upload the below items
+		Non paginated report: Power BI Desktop Report: PBIX File
+		Paginated report: Report Builder report: .rdl
+		Excel file
+	Note: You will find these in the respective video folder
+e) Click "Create App"->Create appspace by doing the below
+		Take appropriate name, description, theme, and image
+		Add Content-->Add one report
+		Audience--> Add user vinaytech_1603@vinaytechhouse.com
+		Save / Publish
+
+
+**********************************************************************************************************************************
+Practice 4: You have to do the below in the web as a second user [manager / tech lead] 
+**********************************************************************************************************************************
+1) Open browser (Internet Explorer or Google Chrome)
+2) Enter the below credentials:
+
+	User name: vinaytech_1603@vinaytechhouse.com
+	Password: vinaytech@2023
+3) Go to App section in the left hand side navigation pane, Identidy the app, and click.
+4) Browse the reports.
+
+**********************************************************************************************************************************
+Practice 5: You have to do the below at the Mobile / Tab as a second user [manager / tech lead] 
+**********************************************************************************************************************************
+1) Open your mobile / tab, go to play store / any store, search Power BI app, Install It.
+2) Open Power BI App, Choose Power BI Service and Enter the below credentials:
+
+	User name: vinaytech_1603@vinaytechhouse.com
+	Password: vinaytech@2023
+3) Go to recent section, click the app created now and browse  the reports.
+
+4) Open one report--> In the down few options available, use them, finally annotated report share via whatsapp on 6304392065.
+
+********************************************************************************************************************************
+Practice 6: You have to do the below at the Mobile / Tab as a second user [manager / tech lead] 
+**********************************************************************************************************************************
+1) Open your mobile / tab, go to play store / any store, search Power BI app, Install It.
+2) Open Power BI App, Choose Power BI Service and Enter the below credentials:
+
+	User name: vinaytech_1707@vinaytechhouse.com
+	Password: vinaytech@2023
+3) Go to recent section, click the app created now and browse  the reports.
+
+4) You can't access yearly report, you can access monthly report and support browsing. [When user not added]
+
+	Adding user to the RLS report:
+	a) Go to the workspace where report available, dataset--> three dots-->security--> Add user-->Click Save.
+	b) Go to workspace, update app. Browse again after adding user.
+
+5) You can access yearly report and displays in mobile view, you can access monthly report and displayed in web view.
+	Also support cross report drill through.  Go to table visual, go to year value[Ex: 2017]-->click or tap --> Drill through 	report
+6)  Open Yearly Report--> In bottom "more" options--> Bookmarks--> Report bookmarks available for browsing
+	[We can' create bookmarks]
+==================================================================================
+Appsapce report features in Mobile and Web:
+
+Mobile:	Add annotation, comments, bookmarks [read], filter, reset, pages
+Web: 	Many options available[annotations not available]
+	comments, bookmarks [read and create], filter, reset, pages, share, subscribe, build reportin excel, embed codes,
+	export in ppt/pdf, copy report, lineage view, refresh, etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yearly report and monthly report and find the below 	observations.
+		Yearly report does not show when RLS user assignment not completed. If completed, it appears in mobile 				view [since optimized for mobile].
+		Monthly report displays content as it is not secured, displays in web view.
+
+yearly report and monthly report and find the below 	observations.
+		Yearly report does not show when RLS user assignment not completed. If completed, it appears in mobile 				view [since optimized for mobile].
+		Monthly report displays content as it is not secured, displays in web view.
+
+
+
+
+
+		Browse pages
+		Provide comment
+		Click reset
+		Go to pages and verify
+		Click Annotate, specify emoji (red color and green color for the values), use pen to draw, use Textbox to 			type
+		
+		Right hand top corner--> click share --> share in whatsapp group-->
+
+
+
+We will share reports / dashboards to customers in multiple ways
+
+a) On-demand sharing [immediate sharing] after opening report
+b) Scheduled sharing [specific time sharing] after opening report 
+b) Generate QR code download and share for individual report 
+c) Appspace sharing for multiple reports and dashboards
+
+What are the additional proerties you will find in mobile view for reports?
+a) Comments  b) Reset c) Filters d) Pages e) Bookmarks  f) Annotate
+
+What are the additional proerties you will find in Web view than mobile view?
+The above all possible except Annotate, the below additional also possible
+a) Export in PPT / PDF / Excel
+b) Changing theme
+c) Refresh visuals
+d) Create bookmarks
+e) Copy report
+f) Get embed links etc.
+
+
+
+
+
+4) Go to mobile, Power BI App, on top camera...  scan the QR code generated
+
+
+
+Conclusion:
+
+We will share reports / dashboards to customers in multiple ways
+
+a) On-demand sharing [immediate sharing] after opening report
+b) Scheduled sharing [specific time sharing] after opening report 
+b) Generate QR code download and share for individual report 
+c) Appspace sharing for multiple reports and dashboards
+
+What are the additional proerties you will find in mobile view for reports?
+a) Comments  b) Reset c) Filters d) Pages e) Bookmarks  f) Annotate
+
+What are the additional proerties you will find in Web view than mobile view?
+The above all possible except Annotate, the below additional also possible
+a) Export in PPT / PDF / Excel
+b) Changing theme
+c) Refresh visuals
+d) Create bookmarks
+e) Copy report
+f) Get embed links etc.
+
+
+
+e) If customer expecting only PDF / PPT, we can generate and share. ( Export Menu-->PDF / PPT)
+=================================================================================
+Monday...One case study end-end...PBI Service classes....
+
+Slowly we start Power BI Desktop components [Power Query, Pivot, View, Map]...
+======================================================================
+Previous...
+
+Demo sessions...understand....
+Practice yest and today...
+===============================================================
+48 hours time...
+===============================================================
+
+Mon-Fri...
+
+8 am: Power Apps...1.30 hrs...
+
+9618377354--contact number...call me or whatsapp...don't stop your practice....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
